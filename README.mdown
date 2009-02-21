@@ -10,6 +10,6 @@
 
 The script will create a `lastfm` directory containing an
 <abbr class='smallcaps'>XML</abbr> file for each week you scrobbled music. An
-`index.xml` file will also be created outside the directory; this is the
+`weeks.xml` file will also be created outside the directory; this is the
 `weeklychartlist.xml` from last.fm, and the weekly
 <abbr class='smallcaps'>XML</abbr> files are created from this list.
